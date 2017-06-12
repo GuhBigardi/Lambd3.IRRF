@@ -1,0 +1,6 @@
+c:\users\guhbi\documents\visual studio 2017\Projects\Lambda3.IRRF\Lambda3.IRRF.Domain\bin\Debug\Lambda3.IRRF.Domain.dll
+c:\users\guhbi\documents\visual studio 2017\Projects\Lambda3.IRRF\Lambda3.IRRF.Domain\bin\Debug\Lambda3.IRRF.Domain.pdb
+c:\users\guhbi\documents\visual studio 2017\Projects\Lambda3.IRRF\Lambda3.IRRF.Domain\bin\Debug\FluentValidator.dll
+c:\users\guhbi\documents\visual studio 2017\Projects\Lambda3.IRRF\Lambda3.IRRF.Domain\obj\Debug\Lambda3.IRRF.Domain.dll
+c:\users\guhbi\documents\visual studio 2017\Projects\Lambda3.IRRF\Lambda3.IRRF.Domain\obj\Debug\Lambda3.IRRF.Domain.pdb
+c:\users\guhbi\documents\visual studio 2017\Projects\Lambda3.IRRF\Lambda3.IRRF.Domain\obj\Debug\Lambda3.IRRF.Domain.csprojResolveAssemblyReference.cache
